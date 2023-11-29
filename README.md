@@ -31,7 +31,7 @@ Hi My name is Huzaifa Arif and I am a third year PhD student at Rensselaer Polyt
 
 
 
-### Publications
+## Publications ###
 
 #### Reprogrammable-FL: Improving Utility-Privacy Tradeoff in Federated Learning via Model Reprogramming
 - **Conference:** IEEE Conference on Secure and Trustworthy Machine Learning, February 2023
