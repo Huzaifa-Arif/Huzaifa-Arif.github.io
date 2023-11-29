@@ -52,7 +52,8 @@ Hi My name is Huzaifa Arif and I am a third year PhD student at Rensselaer Polyt
 
 ## Additional Research Work
 
-- Qualifier Report : [Paper](https://github.com/Huzaifa-Arif/Huzaifa-Arif.github.io/blob/main/PAPERS/RQE_final(1).pdf)
+- Our adaptation of [Hypergradient Descent](https://arxiv.org/abs/1703.04782) found at [Project](https://github.com/mohbattharani/Hypergradient-Descent/blob/main/README.md) 
+- PhD Qualifier Report : [Paper](https://github.com/Huzaifa-Arif/Huzaifa-Arif.github.io/blob/main/PAPERS/RQE_final(1).pdf)
 
 
 
