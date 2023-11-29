@@ -71,7 +71,7 @@ Chuang Gan) (Under Review) (Submitted Feb 2023)
 - Aug 2022: Moved to research group of [Dr. Alex Gittens](http://www.cs.rpi.edu/~gittea/)
 - May 2022: Started my IBM internship with mentor Pin-Yu Chen
 - Apr 2022: Passed my PhD Qualification Exam (Top-5)
-- Apr 2022: Work done with Dr Patterson [DP-Compressed VFL is secure for Model InversionAttacks](https://github.com/Huzaifa-Arif/DP-Compressed-VFL-secure-MIA)
+- Apr 2022: Work done with [Dr StacyPatterson](https://rpi-sep.github.io) [DP-Compressed VFL is secure for Model InversionAttacks](https://github.com/Huzaifa-Arif/DP-Compressed-VFL-secure-MIA)
 - Jan 2021: Joined RPI as a PhD student
 
 ## Contact
