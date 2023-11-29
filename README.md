@@ -61,7 +61,8 @@ Hi My name is Huzaifa Arif and I am a third year PhD student at Rensselaer Polyt
 
 - Differentially Private Federated Learning using Model Reprogramming (Huzaifa Arif,Pin-Yu-Chen, Bo Wu, Zhengfang Chen,
 Chuang Gan) (Under Review) (Submitted Feb 2023)
-### Recent News
+
+## Recent News
 
 - Nov 2023: Submitted work in IBM Internship to CVPR 2024
 - May 2023: Started my IBM internship with mentors Pin-Yu Chen and Keerthiram Murugesan
