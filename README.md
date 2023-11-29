@@ -40,17 +40,16 @@
 - [Paper](#https://openreview.net/forum?id=00EiAK1LHs)
 
 
-
 ### Recent News
 
+- Nov 2023: Submitted work in IBM Internship to CVPR 2024
+- May 2023: Started my IBM internship with mentors Pin-Yu Chen and Keerthiram Murugesan
+- Feb 2023: Filed a patent of Reprogrammable FL with IBM (under review)
+- Oct 2022: Internship work (Reprogrammable FL) accepted at SATML 2023
+- Aug 2022: Moved to research group of [Dr. Alex Gittens](http://www.cs.rpi.edu/~gittea/)
+- May 2022: Started my IBM internship with mentor Pin-Yu Chen
+- Apr 2022: Passed my PhD Qualification Exam (Top-5)
 
-Nov 2023: Submitted work in IBM Internship to CVPR 2024
-May 2023: Started my IBM internship with mentors Pin-Yu Chen and Keeerthiram Murugesan
-Feb 2023: Filed a patent of Reprogrammable FL with IBM (under review)
-Oct 2022: Internship work (Reprogrammable FL) accepted at SATML 2023
-Aug 2022: Moved to research group of Dr. Alex Gittens[#http://www.cs.rpi.edu/~gittea/]
-May 2022: Started my IBM internship with mentor Pin-Yu Chen
-Apr 2022: Passed my PhD Qualification Exam (Top-5)
 
 
 
