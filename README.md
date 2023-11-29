@@ -40,13 +40,13 @@ Hi My name is Huzaifa Arif and I am a third year PhD student at Rensselaer Polyt
 - [Code](https://github.com/IBM/reprogrammble-FL)
 - [Paper](https://openreview.net/forum?id=00EiAK1LHs)
 
-
 ## Preprints
 
-#### DP-Compressed VFL is secure for Model InversionAttacks
+#### DP-Compressed VFL is secure for Model Inversion Attacks
 
--[Paper]:(https://github.com/Huzaifa-Arif/Huzaifa-Arif.github.io/blob/main/PAPERS/TMLR.pdf)
--[Code]: (https://github.com/Huzaifa-Arif/DP-Compressed-VFL-secure-MIA)
+- [Paper](https://github.com/Huzaifa-Arif/Huzaifa-Arif.github.io/blob/main/PAPERS/TMLR.pdf)
+- [Code](https://github.com/Huzaifa-Arif/DP-Compressed-VFL-secure-MIA)
+
 
 
 
