@@ -36,9 +36,7 @@ Hi My name is Huzaifa Arif and I am a third year PhD student at Rensselaer Polyt
 #### Reprogrammable-FL: Improving Utility-Privacy Tradeoff in Federated Learning via Model Reprogramming
 - **Conference:** IEEE Conference on Secure and Trustworthy Machine Learning, February 2023
 - **Authors:** Huzaifa Arif, Alex Gittens, Pin-Yu Chen
-- [Talk](https://www.youtube.com/watch?v=bKZUxkHUxAs)
-- [Code](https://github.com/IBM/reprogrammble-FL)
-- [Paper](https://openreview.net/forum?id=00EiAK1LHs)
+[Talk](https://www.youtube.com/watch?v=bKZUxkHUxAs) [Code](https://github.com/IBM/reprogrammble-FL) [Paper](https://openreview.net/forum?id=00EiAK1LHs)
 
 ## Preprints
 
