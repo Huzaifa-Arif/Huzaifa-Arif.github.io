@@ -1,4 +1,4 @@
-Hi My name is Huzaifa Arif and I am a third year PhD student at Rensselaer Polytechnic Institute. My advisor in [Dr. Alex Gittens](http://www.cs.rpi.edu/~gittea/). My primary interests are in Trustworthy Machine Learning in Federated Setting. I completed my bachelors from Lahore University of Managments sciences in Electrical Engineering. 
+Hi My name is Huzaifa Arif and I am a third year PhD student at Rensselaer Polytechnic Institute. My advisor in [Dr. Alex Gittens](http://www.cs.rpi.edu/~gittea/). My primary interests are in Trustworthy Machine Learning in Federated Setting. I completed my bachelors from Lahore University of Managments sciences in Electrical Engineering. I am currently working on projects related to fairness in federated learning and data leakage in foundation models from a theoretical standpoint.Please reach out to me to discuss ideas 
 
 
 
@@ -73,6 +73,11 @@ Chuang Gan) (Under Review) (Submitted Feb 2023)
 - Apr 2022: Passed my PhD Qualification Exam (Top-5)
 - Apr 2022: Work done with Dr Patterson [DP-Compressed VFL is secure for Model InversionAttacks](https://github.com/Huzaifa-Arif/DP-Compressed-VFL-secure-MIA)
 - Jan 2021: Joined RPI as a PhD student
+
+## Contact
+
+[Email]: arifh@rpi.edu ; huzaifaarif20@gmail.com 
+[Phone] : 518-961 8482
 
 
 
