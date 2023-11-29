@@ -76,8 +76,8 @@ Chuang Gan) (Under Review) (Submitted Feb 2023)
 
 ## Contact
 
-#[Email]: arifh@rpi.edu ; huzaifaarif20@gmail.com 
-#[Phone] : 518-961 8482
+**Email: arifh@rpi.edu ; huzaifaarif20@gmail.com**
+**(Phone) : 518-961 8482**
 
 
 
