@@ -49,7 +49,7 @@ Link to my [CV](https://www.dropbox.com/scl/fi/47fmvrtac3i3rtp3w8q6f/CV_Huzaifa_
 
 #### DP-Compressed VFL is secure for Model Inversion Attacks
 
-- [Paper](https://github.com/Huzaifa-Arif/Huzaifa-Arif.github.io/blob/main/PAPERS/TMLR.pdf)
+- [Paper](https://www.dropbox.com/scl/fi/n3ykn2rxktoynaeho1ghb/TMLR.pdf?rlkey=n5zad2hc5y6kedhqk4y7xpnyp&dl=0)
 - [Code](https://github.com/Huzaifa-Arif/DP-Compressed-VFL-secure-MIA)
 
 
@@ -58,7 +58,7 @@ Link to my [CV](https://www.dropbox.com/scl/fi/47fmvrtac3i3rtp3w8q6f/CV_Huzaifa_
 ## Additional Research Work
 
 - Our adaptation of [Hypergradient Descent](https://arxiv.org/abs/1703.04782) found at [Project](https://github.com/mohbattharani/Hypergradient-Descent/blob/main/README.md) 
-- PhD Qualifier Report : [Paper](https://github.com/Huzaifa-Arif/Huzaifa-Arif.github.io/blob/main/PAPERS/RQE_final(1).pdf)
+- PhD Qualifier Report : [Paper](https://www.dropbox.com/scl/fi/p70zbxfxqzv8m2etexljg/RQE_final-1.pdf?rlkey=xb3txvm9jwpjper4v3eglq9fe&dl=0)
 
 
 
