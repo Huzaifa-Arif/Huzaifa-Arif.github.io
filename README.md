@@ -8,7 +8,7 @@ My primary interests are in Trustworthy Machine Learning in Federated Setting. I
 
 ## CV #
 
-Link to my [CV]([https://github.com/Huzaifa-Arif/Huzaifa-Arif.github.io/blob/main/PAPERS/CV_Huzaifa_Arif_Short_Version.pdf](https://www.dropbox.com/scl/fi/47fmvrtac3i3rtp3w8q6f/CV_Huzaifa_Arif_Short_Version.pdf?rlkey=bw4zctzu3kay7imo1gsgwkl9n&dl=0))
+Link to my [CV]([https://github.com/Huzaifa-Arif/Huzaifa-Arif.github.io/blob/main/PAPERS/CV_Huzaifa_Arif_Short_Version.pdf](https://www.dropbox.com/scl/fi/47fmvrtac3i3rtp3w8q6f/CV_Huzaifa_Arif_Short_Version.pdf?rlkey=bw4zctzu3kay7imo1gsgwkl9n&dl=0)
 
 
 ## Experience ####
