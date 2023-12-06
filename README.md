@@ -1,8 +1,6 @@
 Hi My name is Huzaifa Arif and I am a third year PhD student at Rensselaer Polytechnic Institute. My advisor is [Dr. Alex Gittens](http://www.cs.rpi.edu/~gittea/).
 
-## Current Interest
 
-I am currently looking for internship roles in Trustworthy Machine Learning and Foundation Models. Please reach out if interested
 
 
 ## Research Interests
