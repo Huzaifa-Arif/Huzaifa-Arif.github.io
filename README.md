@@ -71,6 +71,12 @@ Link to my [CV](https://www.dropbox.com/scl/fi/47fmvrtac3i3rtp3w8q6f/CV_Huzaifa_
 - Differentially Private Federated Learning using Model Reprogramming (Huzaifa Arif,Pin-Yu-Chen, Bo Wu, Zhengfang Chen,
 Chuang Gan) (Under Review) (Submitted Feb 2023)
 
+## Reviewer Experience
+
+- International Conference on Acoustics, Speech, and Signal Processing [(ICASSP 2023)](https://www.dropbox.com/home?preview=ReviewerCertHuzaifaArif.pdf)
+-  Artificial Intelligence and Statistics (AISTATS) 2023 
+- IEEE International Workshop on Machine Learning for Signal Processing (MLSP 2023) 
+
 ## Recent News
 
 - Nov 2023: Submitted work in IBM Internship to CVPR 2024
