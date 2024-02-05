@@ -78,8 +78,8 @@ Chuang Gan) (Under Review) (Submitted Feb 2023)
 - IEEE International Workshop on Machine Learning for Signal Processing (MLSP 2023) 
 
 ## Recent News
-
-- Nov 2023: Submitted work in IBM Internship to CVPR 2024
+- Jan 2024 : Submitted my work based on composite gradient based bias mitigation algorithm in Federated Learning to ICML 2024
+- Jan 2024:  Submitted work in IBM Internship (Data Leakage in Residual Network)) to ICML 2024
 - May 2023: Started my IBM internship with mentors Pin-Yu Chen and Keerthiram Murugesan
 - Feb 2023: Filed a patent of Reprogrammable FL with IBM (under review)
 - Oct 2022: Internship work (Reprogrammable FL) accepted at SATML 2023
