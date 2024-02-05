@@ -5,7 +5,7 @@ Hi My name is Huzaifa Arif and I am a third year PhD student at Rensselaer Polyt
 
 ## Research Interests
 
-My primary interests are in Trustworthy Machine Learning in Federated Setting. I am currently working on projects related to fairness in federated learning and data leakage in foundation models from a theoretical standpoint. I am also open to collaborations.Please reach out to me for collaboration.
+My primary interests are in Trustworthy Machine Learning in Federated Setting. I am currently working on projects related to fairness in federated learning and data leakage in foundation models from a theoretical standpoint. 
 
 
 
