@@ -5,15 +5,19 @@ Hi My name is Huzaifa Arif and I am a third year PhD student at Rensselaer Polyt
 
 ## Research Interests
 
-My primary research focus is on Trustworthy Machine Learning in the federated setting. I have made research contributions to model reprogramming and am currently working on group fairness federated learning and understanding data leakage in foundation models.If your interests align with me please reach out.
+My primary research focus is on Trustworthy Machine Learning within federated settings. I have contributed to research in model reprogramming, group fairness, and adversarial attacks on foundation models. Currently, I am developing algorithms to address data leakage in these models. If your research interests align with mine, please feel free to reach out.
 
 
 ## CV #
 
-Link to my [CV](https://www.dropbox.com/scl/fi/47fmvrtac3i3rtp3w8q6f/CV_Huzaifa_Arif_Short_Version.pdf?rlkey=bw4zctzu3kay7imo1gsgwkl9n&dl=0)
+Link to my [CV](https://www.dropbox.com/scl/fi/vq2fqxi4tul7d1pdjwgm4/CV_Huzaifa_Arif_Public.pdf?rlkey=4usxwknyojxvpb3vyn424mo5a&st=g9n9ygrr&dl=0)
 
 
 ## Experience ####
+
+
+**Lawrence Livermore National Labortary** - Livermore, CA
+*Data Science Intern* - May 2024–Aug 2024
 
 **IBM T.J Watson Research Center** - Yorktown Heights, NY  
 *AI Research Extern - Trustworthy AI* - Jun 2023–Aug 2023
@@ -68,7 +72,7 @@ Link to my [CV](https://www.dropbox.com/scl/fi/47fmvrtac3i3rtp3w8q6f/CV_Huzaifa_
 ## Patents 
 
 - Differentially Private Federated Learning using Model Reprogramming (Huzaifa Arif,Pin-Yu-Chen, Bo Wu, Zhengfang Chen,
-Chuang Gan) (Under Review) (Submitted Feb 2023)
+Chuang Gan) (US20240256894A1)
 
 ## Reviewer Experience
 
