@@ -81,6 +81,7 @@ Chuang Gan) (US20240256894A1)
 - IEEE International Workshop on Machine Learning for Signal Processing (MLSP 2023) 
 
 ## Recent News
+- Aug 2024: Our patent Reprogrammable FL got accepted
 - May 2024: Started my internship at Lawrence Livermore National Labortary
 - May 2024 : Submitted my work based on composite gradient based bias mitigation algorithm in Federated Learning to Neurips 2024
 - May 2024:  Submitted work in IBM Internship (Data Leakage in Residual Network)) to Neurips 2024
