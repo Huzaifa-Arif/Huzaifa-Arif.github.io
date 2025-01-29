@@ -75,16 +75,18 @@ Link to my [CV](https://www.dropbox.com/scl/fi/vq2fqxi4tul7d1pdjwgm4/CV_Huzaifa_
 Chuang Gan) (US20240256894A1)
 
 ## Reviewer Experience
-
+- ICLR 2025
 - International Conference on Acoustics, Speech, and Signal Processing [(ICASSP 2023)](https://www.dropbox.com/home?preview=ReviewerCertHuzaifaArif.pdf)
 -  Artificial Intelligence and Statistics (AISTATS) 2023 
 - IEEE International Workshop on Machine Learning for Signal Processing (MLSP 2023) 
 
 ## Recent News
+- DEC 2024: I was awarded the Belsky Award for Computational Science and Engineering 2025 for my research [https://giving.rpi.edu/belsky-award/]
+- DEC 2024 : Work based on composite gradient based bias mitigation algorithm in Federated Learning in TMLR 2024 ( Details comming soon)
+- DEC 2024: Work in LLNL Internship (WAPPO) accepted at AAAI 2025 (Details comming soon)
+- DEC 2024: Work in IBM Internship (Data Leakage in Residual Network)) accepted at SATML 2025 (Details comming soon)
 - Aug 2024: Our patent Reprogrammable FL got accepted
 - May 2024: Started my internship at Lawrence Livermore National Labortary
-- May 2024 : Submitted my work based on composite gradient based bias mitigation algorithm in Federated Learning to Neurips 2024
-- May 2024:  Submitted work in IBM Internship (Data Leakage in Residual Network)) to Neurips 2024
 - May 2023: Started my IBM internship with mentors Pin-Yu Chen and Keerthiram Murugesan
 - Feb 2023: Filed a patent of Reprogrammable FL with IBM (under review)
 - Oct 2022: Internship work (Reprogrammable FL) accepted at SATML 2023
