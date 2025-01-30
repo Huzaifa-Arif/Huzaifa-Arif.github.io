@@ -10,7 +10,10 @@ My primary research focus is on Trustworthy Machine Learning within federated se
 
 ## CV #
 
-Link to my [CV]([https://www.dropbox.com/scl/fi/vq2fqxi4tul7d1pdjwgm4/CV_Huzaifa_Arif_Public.pdf?rlkey=4usxwknyojxvpb3vyn424mo5a&st=g9n9ygrr&dl=0](https://limewire.com/d/2d144606-d719-4776-ac37-6bcf43bc36cb#x1183syQ76cTwqVE1Yh6AaxtNxkSnjHUXUhdFR7ihe0))
+## CV
+
+Link to my [CV](https://limewire.com/d/2d144606-d719-4776-ac37-6bcf43bc36cb#x1183syQ76cTwqVE1Yh6AaxtNxkSnjHUXUhdFR7ihe0)
+
 
 
 ## Experience ####
