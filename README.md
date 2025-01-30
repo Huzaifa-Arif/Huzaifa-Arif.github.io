@@ -12,7 +12,7 @@ My primary research focus is on Trustworthy Machine Learning within federated se
 
 ## CV
 
-Link to my [CV](https://limewire.com/d/2d144606-d719-4776-ac37-6bcf43bc36cb#x1183syQ76cTwqVE1Yh6AaxtNxkSnjHUXUhdFR7ihe0)
+Link to my [CV]([https://limewire.com/d/2d144606-d719-4776-ac37-6bcf43bc36cb#x1183syQ76cTwqVE1Yh6AaxtNxkSnjHUXUhdFR7ihe0](https://drive.google.com/file/d/1TopkHGTFDFomZ9_b4JuC0r4-Ssr1Euqj/view?usp=sharing))
 
 
 
