@@ -85,7 +85,7 @@ Chuang Gan) (US20240256894A1)
 - DEC 2024 : Work based on composite gradient based bias mitigation algorithm in Federated Learning in TMLR 2024 ( Details comming soon)
 - DEC 2024: Work in LLNL Internship (WAPPO) accepted at AAAI 2025 (Details comming soon)
 - DEC 2024: Work in IBM Internship (Data Leakage in Residual Network)) accepted at SATML 2025 (Details comming soon)
-- Aug 2024: Our patent Reprogrammable FL got accepted
+- Aug 2024: Our patent Reprogrammable FL is publicly available (US20240256894A1)
 - May 2024: Started my internship at Lawrence Livermore National Labortary
 - May 2023: Started my IBM internship with mentors Pin-Yu Chen and Keerthiram Murugesan
 - Feb 2023: Filed a patent of Reprogrammable FL with IBM (under review)
