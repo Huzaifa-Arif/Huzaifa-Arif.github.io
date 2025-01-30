@@ -8,7 +8,7 @@ Hi My name is Huzaifa Arif and I am a third year PhD student at Rensselaer Polyt
 My primary research focus is on Trustworthy Machine Learning within federated settings. I have contributed to research in model reprogramming, group fairness, and adversarial attacks on foundation models. Currently, I am developing algorithms to address data leakage in these models. If your research interests align with mine, please feel free to reach out.
 
 
-## CV #
+
 
 ## CV
 
