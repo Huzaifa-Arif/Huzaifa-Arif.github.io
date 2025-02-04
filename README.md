@@ -87,7 +87,7 @@ Chuang Gan) (US20240256894A1)
 - IEEE International Workshop on Machine Learning for Signal Processing (MLSP 2023) 
 
 ## Recent News
-- DEC 2024:I was awarded the Belsky Award for Computational Science and Engineering 2025 for my research. [Learn more about the award](https://giving.rpi.edu/belsky-award/)
+- DEC 2024:I was awarded the Belsky Award for Computational Science and Engineering 2025 for my research. [Award](https://drive.google.com/file/d/18DwL41Id7B1-G5iGqEFAFZYAvuTFiUfo/view?usp=sharing) [Learn more about the award](https://giving.rpi.edu/belsky-award/)
 - DEC 2024 : Work based on composite gradient based bias mitigation algorithm in Federated Learning in TMLR 2024 ( Details comming soon)
 - DEC 2024: Work in LLNL Internship (WAPPO) accepted at AAAI 2025 (Details comming soon)
 - DEC 2024: Work in IBM Internship (Data Leakage in Residual Network)) accepted at SATML 2025 (Details comming soon)
