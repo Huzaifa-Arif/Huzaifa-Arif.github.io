@@ -88,7 +88,7 @@ Chuang Gan) (US20240256894A1)
 
 ## Recent News
 - Apr 2025: I got 2nd Place runners up at 3MT for my thesis : [Teaching AI to play fair and safe](https://mediasite.mms.rpi.edu/mediasite/Channel/3mt/browse/null/oldest/null/0/4d37bfb11f6144a4827b4b637fb300c214)
-- Apr 2025: I gave a talk  [Algorithmic Designs to Investigate Trustworthiness in AI models](https://limewire.com/d/LqSVs#t82vscxHY9)
+- Apr 2025: I gave a talk  [Algorithmic Designs to Investigate Trustworthiness in AI models]([https://limewire.com/d/LqSVs#t82vscxHY9](https://drive.google.com/file/d/10uJZRUKg5vm_9GKV3dwtQSeZxTEGJZ34/view?usp=share_link)
 - Apr 2025 : I defended my PhD Candidacy Exam
 - DEC 2024:I was awarded the Belsky Award for Computational Science and Engineering 2025 for my research. [Award](https://drive.google.com/file/d/18DwL41Id7B1-G5iGqEFAFZYAvuTFiUfo/view?usp=sharing) [Learn more about the award](https://giving.rpi.edu/belsky-award/)
 - DEC 2024 : Work based on composite gradient based bias mitigation algorithm in Federated Learning in TMLR 2024 ( Details comming soon)
