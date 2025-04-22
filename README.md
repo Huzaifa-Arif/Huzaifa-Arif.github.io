@@ -87,7 +87,7 @@ Chuang Gan) (US20240256894A1)
 - IEEE International Workshop on Machine Learning for Signal Processing (MLSP 2023) 
 
 ## Recent News
-- Apr 2025: I got 2nd Place runners up at 3MT for my thesis : [Teaching AI to play fair and safe](https://mediasite.mms.rpi.edu/mediasite/Channel/3mt/browse/null/oldest/null/0/4d37bfb11f6144a4827b4b637fb300c214) [Pitch](https://mediasite.mms.rpi.edu/mediasite/Channel/3mt/watch/d74869f3c14249c4bc0673af790df52e1d)
+- Apr 2025: I got 2nd Place runners up at 3MT for my thesis : [Teaching AI to play fair and safe](https://mediasite.mms.rpi.edu/mediasite/Channel/3mt/browse/null/oldest/null/0/4d37bfb11f6144a4827b4b637fb300c214) [Listen to my Pitch](https://mediasite.mms.rpi.edu/mediasite/Channel/3mt/watch/d74869f3c14249c4bc0673af790df52e1d)
 - Apr 2025: I gave a talk in the RPI School of Mathematical Sciences [Algorithmic Designs to Investigate Trustworthiness in AI models](https://drive.google.com/file/d/10uJZRUKg5vm_9GKV3dwtQSeZxTEGJZ34/view?usp=share_link)
 - Apr 2025 : I defended my PhD Candidacy Exam
 - DEC 2024:I was awarded the Belsky Award for Computational Science and Engineering 2025 for my research. [Award](https://drive.google.com/file/d/18DwL41Id7B1-G5iGqEFAFZYAvuTFiUfo/view?usp=sharing) [Learn more about the award](https://giving.rpi.edu/belsky-award/)
