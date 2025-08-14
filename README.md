@@ -1,18 +1,21 @@
-Hi My name is Huzaifa Arif and I am a third year PhD student at Rensselaer Polytechnic Institute. My advisor is [Dr. Alex Gittens](http://www.cs.rpi.edu/~gittea/).
+Hi My name is Huzaifa Arif and I am a fifth year PhD student at Rensselaer Polytechnic Institute. My advisor is [Dr. Alex Gittens](http://www.cs.rpi.edu/~gittea/).
 
 
 
 
 ## Research Interests
 
-My primary research focus is on Trustworthy Machine Learning within federated settings. I have contributed to research in model reprogramming, group fairness, and adversarial attacks on foundation models. Currently, I am developing algorithms to address data leakage in these models. If your research interests align with mine, please feel free to reach out.
+A fifth-year Ph.D. candidate and researcher with multiple first-author publications in trustworthy AI. My work
+focuses on exposing and mitigating privacy and safety vulnerabilities in Large Language Models, demonstrated
+through research at IBM and LLNL. I am seeking a full-time Research Scientist position starting December
+2025 where I can apply my expertise in LLM alignment and privacy to build verifiably safe AI systems
 
 
 
 
 ## CV
 
-Link to my [CV](https://drive.google.com/file/d/1fMZArnWvgH_RXwkx4GGPNWFdhmBxsCfd/view?usp=sharingeqweqwe)
+Link to my [CV](https://drive.google.com/file/d/1SUiaEHpb8urcv4LJ6ysh7ToWysnfugpw/view?usp=share_link)
 
 
 
@@ -20,9 +23,15 @@ Link to my [CV](https://drive.google.com/file/d/1fMZArnWvgH_RXwkx4GGPNWFdhmBxsCf
 
 ## Experience ####
 
+**IBM T.J Watson Research Center** - Yorktown Heights, NY  
+*AI Research Extern - Trustworthy AI* - Jun 2025–Aug 2025
+
+**Mentor: Pin-Yu Chen, Ching-Yun Ko,Keerthiram Murugesan, Payel Das**
 
 **Lawrence Livermore National Labortary** - Livermore, CA
 *Data Science Intern* - May 2024–Aug 2024
+
+**Mentor: Bhavya Kailkhura,James Diffenderfer**
 
 **IBM T.J Watson Research Center** - Yorktown Heights, NY  
 *AI Research Extern - Trustworthy AI* - Jun 2023–Aug 2023
@@ -95,12 +104,6 @@ Chuang Gan) (US20240256894A1)
 - DEC 2024: Work in LLNL Internship (WAPPO) accepted at AAAI 2025 (Details comming soon)
 - DEC 2024: Work in IBM Internship (Data Leakage in Residual Network)) accepted at SATML 2025 (Details comming soon)
 - Aug 2024: Our patent Reprogrammable FL is publicly available (US20240256894A1)
-- May 2024: Started my internship at Lawrence Livermore National Labortary
-- May 2023: Started my IBM internship with mentors Pin-Yu Chen and Keerthiram Murugesan
-- Feb 2023: Filed a patent of Reprogrammable FL with IBM (under review)
-- Oct 2022: Internship work (Reprogrammable FL) accepted at SATML 2023
-- Aug 2022: Moved to research group of [Dr. Alex Gittens](http://www.cs.rpi.edu/~gittea/)
-- May 2022: Started my IBM internship with mentor Pin-Yu Chen
 - Apr 2022: Passed my PhD Qualification Exam (Rank: Top-5)
 - Apr 2022: Work done with [Dr. Stacy Patterson](https://rpi-sep.github.io). Preprint available : [DP-Compressed VFL is secure for Model InversionAttacks](https://github.com/Huzaifa-Arif/DP-Compressed-VFL-secure-MIA)
 - Jan 2021: Joined RPI as a PhD student
