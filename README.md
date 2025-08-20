@@ -96,7 +96,7 @@ I am a fifth-year Ph.D. candidate and researcher with multiple first-author publ
 ## Additional Research Work
 
 - Our adaptation of [Hypergradient Descent](https://arxiv.org/abs/1703.04782) [Project](https://github.com/mohbattharani/Hypergradient-Descent/blob/main/README.md) 
-- PhD Qualifier Report | [Paper](https://www.dropbox.com/scl/fi/p70zbxfxqzv8m2etexljg/RQE_final-1.pdf?rlkey=xb3txvm9jwpjper4v3eglq9fe&dl=0)
+- PhD Qualifier Report  [Paper](https://www.dropbox.com/scl/fi/p70zbxfxqzv8m2etexljg/RQE_final-1.pdf?rlkey=xb3txvm9jwpjper4v3eglq9fe&dl=0)
 
 
 
