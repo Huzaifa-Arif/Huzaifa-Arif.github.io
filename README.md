@@ -11,7 +11,7 @@ I am a fifth-year Ph.D. candidate and researcher with multiple first-author publ
 
 ## Quick Links
 
-- 📄 **[CV](PAPERS/Huzaifa_Resume.pdf)
+- 📄 **[CV](PAPERS/Huzaifa_Resume.pdf)**
 - 🎓 **[Google Scholar](https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=misWmOwAAAAJ)**
 - 💻 **[GitHub](https://github.com/Huzaifa-Arif?tab=repositories)**
 
