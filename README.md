@@ -83,12 +83,12 @@ I am a fifth-year Ph.D. candidate and researcher with multiple first-author publ
 - **"Utility-privacy Tradeoff in Federated Learning"**
   Book chapter in *Federated Learning for Medical Imaging*, Elsevier, 2025  
   Huzaifa Arif, Alex Gittens, and Pin-Yu Chen  
-  🔗 [Link](https://www.amazon.com/Federated-Learning-Medical-Imaging-Applications/dp/0443236410)
+   [Link](https://www.amazon.com/Federated-Learning-Medical-Imaging-Applications/dp/0443236410)
 
 ## Preprints
 
 ### DP-Compressed VFL is secure for Model Inversion Attacks
-📄 [Paper](https://www.dropbox.com/scl/fi/n3ykn2rxktoynaeho1ghb/TMLR.pdf?rlkey=n5zad2hc5y6kedhqk4y7xpnyp&dl=0) | 💻 [Code](https://github.com/Huzaifa-Arif/DP-Compressed-VFL-secure-MIA)
+ [Paper](https://www.dropbox.com/scl/fi/n3ykn2rxktoynaeho1ghb/TMLR.pdf?rlkey=n5zad2hc5y6kedhqk4y7xpnyp&dl=0) |  [Code](https://github.com/Huzaifa-Arif/DP-Compressed-VFL-secure-MIA)
 
 
 
@@ -113,12 +113,12 @@ I am a fifth-year Ph.D. candidate and researcher with multiple first-author publ
 ## Recent News & Achievements
 
 ### 2025
-- **Apr 2025:** 🥈 2nd Place runners-up at 3MT for my thesis |  [Listen to my Pitch](https://mediasite.mms.rpi.edu/mediasite/Channel/3mt/watch/d74869f3c14249c4bc0673af790df52e1d)
+- **Apr 2025:** 2nd Place runners-up at 3MT for my thesis |  [Listen to my Pitch](https://mediasite.mms.rpi.edu/mediasite/Channel/3mt/watch/d74869f3c14249c4bc0673af790df52e1d)
 - **Apr 2025:** Gave a talk at RPI School of Mathematical Sciences |  [Algorithmic Designs to Investigate Trustworthiness in AI models](https://drive.google.com/file/d/10uJZRUKg5vm_9GKV3dwtQSeZxTEGJZ34/view?usp=share_link)
 - **Apr 2025:** Successfully defended my PhD Candidacy Exam
 
 ### 2024
-- **Dec 2024:** 🏆 Awarded the Belsky Award for Computational Science and Engineering 2025 |  [Award](https://drive.google.com/file/d/18DwL41Id7B1-G5iGqEFAFZYAvuTFiUfo/view?usp=sharing) |  [Learn more](https://giving.rpi.edu/belsky-award/)
+- **Dec 2024:**  Awarded the Belsky Award for Computational Science and Engineering 2025 |  [Award](https://drive.google.com/file/d/18DwL41Id7B1-G5iGqEFAFZYAvuTFiUfo/view?usp=sharing) |  [Learn more](https://giving.rpi.edu/belsky-award/)
 - **Dec 2024:** Work on composite gradient-based bias mitigation algorithm in Federated Learning accepted to TMLR 2025
 - **Dec 2024:** LLNL internship work (WAPPO) accepted at AAAI 2025
 - **Dec 2024:** IBM internship work (Data Leakage in Residual Networks) accepted at SATML 2025
