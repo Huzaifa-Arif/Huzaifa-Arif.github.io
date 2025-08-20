@@ -13,9 +13,7 @@ through research at IBM and LLNL. I am seeking a full-time Research Scientist po
 
 
 
-## CV
-
-Link to my [CV](https://drive.google.com/file/d/1SUiaEHpb8urcv4LJ6ysh7ToWysnfugpw/view?usp=share_link)
+## [CV](https://drive.google.com/file/d/1SUiaEHpb8urcv4LJ6ysh7ToWysnfugpw/view?usp=share_link)
 
 
 ## [Google Scholar](https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=misWmOwAAAAJ)
