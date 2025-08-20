@@ -76,7 +76,7 @@ I am a fifth-year Ph.D. candidate and researcher with multiple first-author publ
   Patent No. US20240256894A1
 - **Method for Quantifying Private Leakage in Pretrained Neural Networks**
   
-  **Inventors**: Huzaifa Arif, Keerthiram Murugesan, Payel Das, Alex Gittens, Pin-Yu Chen 
+  **Inventors**: Huzaifa Arif, Keerthiram Murugesan, Payel Das, Pin-Yu Chen 
   
 
 ### Book Chapters
