@@ -95,8 +95,8 @@ I am a fifth-year Ph.D. candidate and researcher with multiple first-author publ
 
 ## Additional Research Work
 
-- Our adaptation of [Hypergradient Descent](https://arxiv.org/abs/1703.04782) | 🔗 [Project](https://github.com/mohbattharani/Hypergradient-Descent/blob/main/README.md) 
-- PhD Qualifier Report | 📄 [Paper](https://www.dropbox.com/scl/fi/p70zbxfxqzv8m2etexljg/RQE_final-1.pdf?rlkey=xb3txvm9jwpjper4v3eglq9fe&dl=0)
+- Our adaptation of [Hypergradient Descent](https://arxiv.org/abs/1703.04782) |[Project](https://github.com/mohbattharani/Hypergradient-Descent/blob/main/README.md) 
+- PhD Qualifier Report | [Paper](https://www.dropbox.com/scl/fi/p70zbxfxqzv8m2etexljg/RQE_final-1.pdf?rlkey=xb3txvm9jwpjper4v3eglq9fe&dl=0)
 
 
 
@@ -113,12 +113,12 @@ I am a fifth-year Ph.D. candidate and researcher with multiple first-author publ
 ## Recent News & Achievements
 
 ### 2025
-- **Apr 2025:** 🥈 2nd Place runners-up at 3MT for my thesis | 🎥 [Listen to my Pitch](https://mediasite.mms.rpi.edu/mediasite/Channel/3mt/watch/d74869f3c14249c4bc0673af790df52e1d)
-- **Apr 2025:** Gave a talk at RPI School of Mathematical Sciences | 🎤 [Algorithmic Designs to Investigate Trustworthiness in AI models](https://drive.google.com/file/d/10uJZRUKg5vm_9GKV3dwtQSeZxTEGJZ34/view?usp=share_link)
+- **Apr 2025:** 🥈 2nd Place runners-up at 3MT for my thesis |  [Listen to my Pitch](https://mediasite.mms.rpi.edu/mediasite/Channel/3mt/watch/d74869f3c14249c4bc0673af790df52e1d)
+- **Apr 2025:** Gave a talk at RPI School of Mathematical Sciences |  [Algorithmic Designs to Investigate Trustworthiness in AI models](https://drive.google.com/file/d/10uJZRUKg5vm_9GKV3dwtQSeZxTEGJZ34/view?usp=share_link)
 - **Apr 2025:** Successfully defended my PhD Candidacy Exam
 
 ### 2024
-- **Dec 2024:** 🏆 Awarded the Belsky Award for Computational Science and Engineering 2025 | 📄 [Award](https://drive.google.com/file/d/18DwL41Id7B1-G5iGqEFAFZYAvuTFiUfo/view?usp=sharing) | 🔗 [Learn more](https://giving.rpi.edu/belsky-award/)
+- **Dec 2024:** 🏆 Awarded the Belsky Award for Computational Science and Engineering 2025 |  [Award](https://drive.google.com/file/d/18DwL41Id7B1-G5iGqEFAFZYAvuTFiUfo/view?usp=sharing) |  [Learn more](https://giving.rpi.edu/belsky-award/)
 - **Dec 2024:** Work on composite gradient-based bias mitigation algorithm in Federated Learning accepted to TMLR 2025
 - **Dec 2024:** LLNL internship work (WAPPO) accepted at AAAI 2025
 - **Dec 2024:** IBM internship work (Data Leakage in Residual Networks) accepted at SATML 2025
@@ -126,7 +126,7 @@ I am a fifth-year Ph.D. candidate and researcher with multiple first-author publ
 
 ### 2022
 - **Apr 2022:** Passed PhD Qualification Exam (Rank: Top-5)
-- **Apr 2022:** Completed work with [Dr. Stacy Patterson](https://rpi-sep.github.io) | 📄 Preprint: [DP-Compressed VFL is secure for Model Inversion Attacks](https://github.com/Huzaifa-Arif/DP-Compressed-VFL-secure-MIA)
+- **Apr 2022:** Completed work with [Dr. Stacy Patterson](https://rpi-sep.github.io) |  Preprint: [DP-Compressed VFL is secure for Model Inversion Attacks](https://github.com/Huzaifa-Arif/DP-Compressed-VFL-secure-MIA)
 
 ### 2021
 - **Jan 2021:** Joined RPI as a PhD student
