@@ -71,8 +71,11 @@ I am a fifth-year Ph.D. candidate and researcher with multiple first-author publ
 
 ### Patents
 - **Differentially Private Federated Learning using Model Reprogramming**  
-  Huzaifa Arif, Pin-Yu Chen, Bo Wu, Zhengfang Chen, Chuang Gan  
+  **Inventors**: Huzaifa Arif, Pin-Yu Chen, Bo Wu, Zhengfang Chen, Chuang Gan  
   Patent No. US20240256894A1
+- **Method for Quantifying Private Leakage in Pretrained Neural Networks**
+  **Inventors**: Huzaifa Arif, Keerthiram Murugesan, Payel Das, Alex Gittens, Pin-Yu Chen 
+  
 
 ### Book Chapters
 - **"Utility-privacy Tradeoff in Federated Learning"**
@@ -93,16 +96,6 @@ I am a fifth-year Ph.D. candidate and researcher with multiple first-author publ
 - Our adaptation of [Hypergradient Descent](https://arxiv.org/abs/1703.04782) | 🔗 [Project](https://github.com/mohbattharani/Hypergradient-Descent/blob/main/README.md) 
 - PhD Qualifier Report | 📄 [Paper](https://www.dropbox.com/scl/fi/p70zbxfxqzv8m2etexljg/RQE_final-1.pdf?rlkey=xb3txvm9jwpjper4v3eglq9fe&dl=0)
 
-
-
-
-## Patents 
-
-- Differentially Private Federated Learning using Model Reprogramming (Huzaifa Arif,Pin-Yu-Chen, Bo Wu, Zhengfang Chen,
-Chuang Gan) (US20240256894A1)
-
-## Book Chapter
--- Huzaifa Arif, Alex Gittens, and Pin-Yu Chen, “Utility-privacy Tradeoff in Federated Learning,” book chapter in Federated Learning for Medical Imaging, Elsevier, 2025 [Link](https://www.amazon.com/Federated-Learning-Medical-Imaging-Applications/dp/0443236410)
 
 
 ## Professional Service
