@@ -70,10 +70,12 @@ I am a fifth-year Ph.D. candidate and researcher with multiple first-author publ
 
 
 ### Patents
-- **Differentially Private Federated Learning using Model Reprogramming**  
+- **Differentially Private Federated Learning using Model Reprogramming**
+  
   **Inventors**: Huzaifa Arif, Pin-Yu Chen, Bo Wu, Zhengfang Chen, Chuang Gan  
   Patent No. US20240256894A1
 - **Method for Quantifying Private Leakage in Pretrained Neural Networks**
+  
   **Inventors**: Huzaifa Arif, Keerthiram Murugesan, Payel Das, Alex Gittens, Pin-Yu Chen 
   
 
