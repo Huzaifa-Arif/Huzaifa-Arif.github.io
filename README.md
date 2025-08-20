@@ -78,8 +78,7 @@ I am a fifth-year Ph.D. candidate and researcher with multiple first-author publ
 - **"Utility-privacy Tradeoff in Federated Learning"**
   Book chapter in *Federated Learning for Medical Imaging*, Elsevier, 2025  
   Huzaifa Arif, Alex Gittens, and Pin-Yu Chen  
-  🔗 [Link](https://www.amazon.com/Federated-Learning-Medical-Imaging-Applications/dp/0443236410)technic Institute under the supervision of [Dr. Alex Gittens](http://www.cs.rpi.edu/~gittea/).
-  
+  🔗 [Link](https://www.amazon.com/Federated-Learning-Medical-Imaging-Applications/dp/0443236410)
 
 ## Preprints
 
