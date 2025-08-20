@@ -1,17 +1,6 @@
 # Huzaifa Arif
 
-Hi! My name is Huzaifa Arif and I am a fifth-year PhD student at Renssela## Patents & Publications
 
-### Patents
-- **Differentially Private Federated Learning using Model Reprogramming**  
-  Huzaifa Arif, Pin-Yu Chen, Bo Wu, Zhengfang Chen, Chuang Gan  
-  Patent No. US20240256894A1
-
-### Book Chapters
-- **"Utility-privacy Tradeoff in Federated Learning"**  
-  Book chapter in *Federated Learning for Medical Imaging*, Elsevier, 2025  
-  Huzaifa Arif, Alex Gittens, and Pin-Yu Chen  
-  🔗 [Link](https://www.amazon.com/Federated-Learning-Medical-Imaging-Applications/dp/0443236410)technic Institute under the supervision of [Dr. Alex Gittens](http://www.cs.rpi.edu/~gittea/).
 
 ## About Me
 
@@ -80,7 +69,17 @@ I am a fifth-year Ph.D. candidate and researcher with multiple first-author publ
 
 
 
+### Patents
+- **Differentially Private Federated Learning using Model Reprogramming**  
+  Huzaifa Arif, Pin-Yu Chen, Bo Wu, Zhengfang Chen, Chuang Gan  
+  Patent No. US20240256894A1
 
+### Book Chapters
+- **"Utility-privacy Tradeoff in Federated Learning"**  
+  Book chapter in *Federated Learning for Medical Imaging*, Elsevier, 2025  
+  Huzaifa Arif, Alex Gittens, and Pin-Yu Chen  
+  🔗 [Link](https://www.amazon.com/Federated-Learning-Medical-Imaging-Applications/dp/0443236410)technic Institute under the supervision of [Dr. Alex Gittens](http://www.cs.rpi.edu/~gittea/).
+  
 
 ## Preprints
 
