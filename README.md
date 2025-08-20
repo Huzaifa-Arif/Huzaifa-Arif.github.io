@@ -18,7 +18,9 @@ through research at IBM and LLNL. I am seeking a full-time Research Scientist po
 Link to my [CV](https://drive.google.com/file/d/1SUiaEHpb8urcv4LJ6ysh7ToWysnfugpw/view?usp=share_link)
 
 
+## [Google Scholar] (https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=misWmOwAAAAJ)
 
+## [Github](https://github.com/Huzaifa-Arif?tab=repositories)
 
 
 ## Experience ####
@@ -49,7 +51,7 @@ Link to my [CV](https://drive.google.com/file/d/1SUiaEHpb8urcv4LJ6ysh7ToWysnfugp
 
 
 **Rensselaer Polytechnic Institute - Troy, NY**  
-*Electrical and Computer Systems Engineering Ph.D* - 3.95 GPA - Jan 2021–
+*Electrical and Computer Systems Engineering Ph.D* - Expected Graduation  Dec 2025
 
 
 
@@ -60,10 +62,27 @@ Link to my [CV](https://drive.google.com/file/d/1SUiaEHpb8urcv4LJ6ysh7ToWysnfugp
 
 ## Publications ###
 
-#### Reprogrammable-FL: Improving Utility-Privacy Tradeoff in Federated Learning via Model Reprogramming
+#### 1) Reprogrammable-FL: Improving Utility-Privacy Tradeoff in Federated Learning via Model Reprogramming
 - **Conference:** IEEE Conference on Secure and Trustworthy Machine Learning, February 2023
 - **Authors:** Huzaifa Arif, Alex Gittens, Pin-Yu Chen
 [Talk](https://www.youtube.com/watch?v=bKZUxkHUxAs) [Code](https://github.com/IBM/reprogrammble-FL) [Paper](https://openreview.net/forum?id=00EiAK1LHs)
+
+### 2) PEEL the Layers and Find Yourself: Revisiting Inference-time Data Leakage for Residual Neural Networks
+ - **Conference:** IEEE Conference on Secure and Trustworthy Machine Learning, April 2025
+ - **Authors:**  Huzaifa Arif, Keerthiram Murugesan, Payel Das, Alex Gittens, Pin-Yu Chen
+ - [Paper](https://arxiv.org/pdf/2504.06410?)
+### 3) Group Fair Federated Learning via Stochastic Kernel Regularization
+ - **Journal:** Transactions on Machine Learning Research, April 2025
+ -  **Authors:**  Huzaifa Arif, Pin-Yu Chen, Keerthiram Murugesan, Alex Gittens
+ -  [Paper](https://openreview.net/pdf?id=k8x44wVIs1)
+### 4) Forecasting Fails: Unveiling Evasion Attacks in Weather Prediction Models
+ -- **Conference(Workshop)**: AAAI Workshop on AI to Accelerate Science and Engineering
+ -- **Authors** Huzaifa Arif, Pin-Yu Chen, Alex Gittens, James Diffenderfer, Bhavya Kailkhura
+ -- [Paper](https://ai-2-ase.github.io/papers/47_Final_WAPPO.pdf)
+
+
+
+
 
 ## Preprints
 
@@ -88,6 +107,10 @@ Link to my [CV](https://drive.google.com/file/d/1SUiaEHpb8urcv4LJ6ysh7ToWysnfugp
 - Differentially Private Federated Learning using Model Reprogramming (Huzaifa Arif,Pin-Yu-Chen, Bo Wu, Zhengfang Chen,
 Chuang Gan) (US20240256894A1)
 
+## Book Chapter
+-- Huzaifa Arif, Alex Gittens, and Pin-Yu Chen, “Utility-privacy Tradeoff in Federated Learning,” book chapter in Federated Learning for Medical Imaging, Elsevier, 2025 [Link](https://www.amazon.com/Federated-Learning-Medical-Imaging-Applications/dp/0443236410)
+
+
 ## Reviewer Experience
 - ICLR 2025
 - International Conference on Acoustics, Speech, and Signal Processing [(ICASSP 2025)](https://drive.google.com/file/d/1XPAvn75CKj4v1z2whZVQWUvowlwI1v72/view?usp=sharing)
@@ -100,9 +123,9 @@ Chuang Gan) (US20240256894A1)
 - Apr 2025: I gave a talk in the RPI School of Mathematical Sciences [Algorithmic Designs to Investigate Trustworthiness in AI models](https://drive.google.com/file/d/10uJZRUKg5vm_9GKV3dwtQSeZxTEGJZ34/view?usp=share_link)
 - Apr 2025 : I defended my PhD Candidacy Exam
 - DEC 2024:I was awarded the Belsky Award for Computational Science and Engineering 2025 for my research. [Award](https://drive.google.com/file/d/18DwL41Id7B1-G5iGqEFAFZYAvuTFiUfo/view?usp=sharing) [Learn more about the award](https://giving.rpi.edu/belsky-award/)
-- DEC 2024 : Work based on composite gradient based bias mitigation algorithm in Federated Learning in TMLR 2024 ( Details comming soon)
-- DEC 2024: Work in LLNL Internship (WAPPO) accepted at AAAI 2025 (Details comming soon)
-- DEC 2024: Work in IBM Internship (Data Leakage in Residual Network)) accepted at SATML 2025 (Details comming soon)
+- DEC 2024 : Work based on composite gradient based bias mitigation algorithm in Federated Learning in TMLR 2025 
+- DEC 2024: Work in LLNL Internship (WAPPO) accepted at AAAI 2025 
+- DEC 2024: Work in IBM Internship (Data Leakage in Residual Network)) accepted at SATML 2025 
 - Aug 2024: Our patent Reprogrammable FL is publicly available (US20240256894A1)
 - Apr 2022: Passed my PhD Qualification Exam (Rank: Top-5)
 - Apr 2022: Work done with [Dr. Stacy Patterson](https://rpi-sep.github.io). Preprint available : [DP-Compressed VFL is secure for Model InversionAttacks](https://github.com/Huzaifa-Arif/DP-Compressed-VFL-secure-MIA)
