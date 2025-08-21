@@ -1,7 +1,5 @@
 # Huzaifa Arif
 
-
-
 ## About Me
 
 I am a fifth-year Ph.D. candidate and researcher with multiple first-author publications in trustworthy AI. My work focuses on exposing and mitigating privacy and safety vulnerabilities in Large Language Models, demonstrated through research at IBM and LLNL. I am seeking a full-time Research Scientist position starting December 2025 where I can apply my expertise in LLM alignment and privacy to build verifiably safe AI systems.
@@ -43,6 +41,15 @@ I am a fifth-year Ph.D. candidate and researcher with multiple first-author publ
 ### Lahore University of Management Sciences - Lahore, Pakistan  
 **B.S. in Electrical Engineering**   
 
+
+
+## 🚧 Ongoing LLM Research
+
+My current research is focused on enhancing the safety and privacy of Large Language Models. These projects are currently being prepared for submission.
+
+-   **Parameter-Efficient LLM Safety Alignment:** I am developing a lightweight, prefix-based method to steer LLMs towards safe behavior without needing to retrain the entire model. By combining Supervised Fine-Tuning (SFT) with Direct Preference Optimization (DPO), this work efficiently instills safety, mitigates toxicity, and can be adapted to prevent demographic bias and PII leakage. *(Manuscript in preparation for ICLR 2026).*
+
+-   **Exposing Association Leakage in LLMs:** I have identified a novel privacy vulnerability, "association leakage," where LLMs can be prompted to reveal sensitive linked information (e.g., a name and its corresponding private data). My work introduces a new post-hoc attack that amplifies this leakage by manipulating attention heads at inference time, defining a new threat model for LLM safety audits. *(Manuscript in preparation for ICLR 2026).*
 
 
 ## Publications
