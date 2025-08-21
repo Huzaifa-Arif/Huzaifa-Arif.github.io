@@ -49,7 +49,7 @@ I am a fifth-year Ph.D. candidate and researcher with multiple first-author publ
 
 -   **Exposing Association Leakage in LLMs:** I have identified a novel privacy vulnerability, "association leakage," where LLMs can be prompted to reveal sensitive linked information (e.g., a name and its corresponding private data). My work introduces a new post-hoc attack that amplifies this leakage by manipulating attention heads at inference time, defining a new threat model for LLM safety audits. *(Manuscript in preparation for ICLR 2026).*
 
-## Publications
+## Publications 
 
 ### 1. Reprogrammable-FL: Improving Utility-Privacy Tradeoff in Federated Learning via Model Reprogramming
 **Conference:** IEEE Conference on Secure and Trustworthy Machine Learning, February 2023  
