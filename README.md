@@ -47,7 +47,7 @@ I am a fifth-year Ph.D. candidate and researcher with multiple first-author publ
 ##  Ongoing work 
 **Project 1: Parameter-Efficient LLM Safety Alignment:** I am developing a lightweight, prefix-based method to steer LLMs towards safe behavior without needing to retrain the entire model. By combining Supervised Fine-Tuning (SFT) with Direct Preference Optimization (DPO), this work efficiently instills safety, mitigates toxicity, and can be adapted to prevent demographic bias and PII leakage. *(Manuscript in preparation for ICLR 2026).*
 
-**Proejct 2: Exposing Association Leakage in LLMs:** I have identified a novel privacy vulnerability, "association leakage," where LLMs can be prompted to reveal sensitive linked information (e.g., a name and its corresponding private data). My work introduces a new post-hoc attack that amplifies this leakage by manipulating attention heads at inference time, defining a new threat model for LLM safety audits. *(Manuscript in preparation for ICLR 2026).*
+**Project 2: Exposing Association Leakage in LLMs:** I have identified a novel privacy vulnerability, "association leakage," where LLMs can be prompted to reveal sensitive linked information (e.g., a name and its corresponding private data). My work introduces a new post-hoc attack that amplifies this leakage by manipulating attention heads at inference time, defining a new threat model for LLM safety audits. *(Manuscript in preparation for ICLR 2026).*
 
 ## Publications 
 
