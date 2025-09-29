@@ -1,5 +1,7 @@
 # Huzaifa Arif
 
+
+
 ## About Me
 
 I am a fifth-year Ph.D. candidate and researcher with multiple first-author publications in trustworthy AI. My work focuses on exposing and mitigating privacy and safety vulnerabilities in Large Language Models, demonstrated through research at IBM and LLNL. I am seeking a full-time Research Scientist position starting December 2025 where I can apply my expertise in LLM alignment and privacy to build verifiably safe AI systems.
@@ -9,7 +11,7 @@ I am a fifth-year Ph.D. candidate and researcher with multiple first-author publ
 
 ## Quick Links
 
-- 📄 **[CV](PAPERS/Huzaifa_Resume.pdf)
+- 📄 **[CV](PAPERS/Huzaifa_Resume.pdf)**
 - 🎓 **[Google Scholar](https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=misWmOwAAAAJ)**
 - 💻 **[GitHub](https://github.com/Huzaifa-Arif?tab=repositories)**
 
@@ -42,22 +44,17 @@ I am a fifth-year Ph.D. candidate and researcher with multiple first-author publ
 **B.S. in Electrical Engineering**   
 
 
+## Ongoing work 
+**Project 1: Parameter-Efficient LLM Safety Alignment:** I am developing a lightweight, prefix-based method to steer LLMs towards safe behavior without needing to retrain the entire model. By combining Supervised Fine-Tuning (SFT) with Direct Preference Optimization (DPO), this work efficiently instills safety, mitigates toxicity, and can be adapted to prevent demographic bias and PII leakage. *(Under Review ICLR 2026).*
 
-## 🚧 Ongoing LLM Research
+**Project 2: Exposing Association Leakage in LLMs:** I have identified a novel privacy vulnerability, "association leakage," where LLMs can be prompted to reveal sensitive linked information (e.g., a name and its corresponding private data). My work introduces a new post-hoc attack that amplifies this leakage by manipulating attention heads at inference time, defining a new threat model for LLM safety audits. *(Preprint coming soon).*
 
-My current research is focused on enhancing the safety and privacy of Large Language Models. These projects are currently being prepared for submission.
-
--   **Parameter-Efficient LLM Safety Alignment:** I am developing a lightweight, prefix-based method to steer LLMs towards safe behavior without needing to retrain the entire model. By combining Supervised Fine-Tuning (SFT) with Direct Preference Optimization (DPO), this work efficiently instills safety, mitigates toxicity, and can be adapted to prevent demographic bias and PII leakage. *(Manuscript in preparation for ICLR 2026).*
-
--   **Exposing Association Leakage in LLMs:** I have identified a novel privacy vulnerability, "association leakage," where LLMs can be prompted to reveal sensitive linked information (e.g., a name and its corresponding private data). My work introduces a new post-hoc attack that amplifies this leakage by manipulating attention heads at inference time, defining a new threat model for LLM safety audits. *(Manuscript in preparation for ICLR 2026).*
-
-
-## Publications
+## Publications 
 
 ### 1. Reprogrammable-FL: Improving Utility-Privacy Tradeoff in Federated Learning via Model Reprogramming
 **Conference:** IEEE Conference on Secure and Trustworthy Machine Learning, February 2023  
 **Authors:** Huzaifa Arif, Alex Gittens, Pin-Yu Chen  
-🎥 [Talk](https://www.youtube.com/watch?v=bKZUxkHUxAs) | 💻 [Code](https://github.com/IBM/reprogrammble-FL) | 📄 [Paper](https://openreview.net/forum?id=00EiAK1LHs)
+🎥 [Talk](https://www.youtube.com/watch?v=bKZUxkHUxAs) | 💻 [Code](https://github.com/IBM/reprogrammable-FL) | 📄 [Paper](https://openreview.net/forum?id=00EiAK1LHs)
 
 ### 2. PEEL the Layers and Find Yourself: Revisiting Inference-time Data Leakage for Residual Neural Networks
 **Conference:** IEEE Conference on Secure and Trustworthy Machine Learning, April 2025  
@@ -83,7 +80,7 @@ My current research is focused on enhancing the safety and privacy of Large Lang
   Patent No. US20240256894A1
 - **Method for Quantifying Private Leakage in Pretrained Neural Networks**
   
-  **Inventors**: Huzaifa Arif, Keerthiram Murugesan, Payel Das, Alex Gittens, Pin-Yu Chen 
+  **Inventors**: Huzaifa Arif, Keerthiram Murugesan, Payel Das, Pin-Yu Chen 
   
 
 ### Book Chapters
@@ -120,6 +117,7 @@ My current research is focused on enhancing the safety and privacy of Large Lang
 ## Recent News & Achievements
 
 ### 2025
+- **Sept 2025:** I got the Founders Award of Excellence (Awarded to top 1% Students at RPI) [https://webforms.rpi.edu/founders-award-excellence] 
 - **Apr 2025:** 2nd Place runners-up at 3MT for my thesis   [Listen to my Pitch](https://mediasite.mms.rpi.edu/mediasite/Channel/3mt/watch/d74869f3c14249c4bc0673af790df52e1d)
 - **Apr 2025:** Gave a talk at RPI School of Mathematical Sciences  [Algorithmic Designs to Investigate Trustworthiness in AI models](https://drive.google.com/file/d/10uJZRUKg5vm_9GKV3dwtQSeZxTEGJZ34/view?usp=share_link)
 - **Apr 2025:** Successfully defended my PhD Candidacy Exam
@@ -145,7 +143,7 @@ My current research is focused on enhancing the safety and privacy of Large Lang
 
 ---
 
-*Last updated: August 2025*
+*Last updated: September 2025*
 
 
 
