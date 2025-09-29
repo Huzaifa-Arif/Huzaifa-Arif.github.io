@@ -117,6 +117,7 @@ I am a fifth-year Ph.D. candidate and researcher with multiple first-author publ
 ## Recent News & Achievements
 
 ### 2025
+- **Sept 2025:** I got the Founders Award of Excellenece (Awarded to top 1% Students at RPI)[https://webforms.rpi.edu/founders-award-excellence] 
 - **Apr 2025:** 2nd Place runners-up at 3MT for my thesis   [Listen to my Pitch](https://mediasite.mms.rpi.edu/mediasite/Channel/3mt/watch/d74869f3c14249c4bc0673af790df52e1d)
 - **Apr 2025:** Gave a talk at RPI School of Mathematical Sciences  [Algorithmic Designs to Investigate Trustworthiness in AI models](https://drive.google.com/file/d/10uJZRUKg5vm_9GKV3dwtQSeZxTEGJZ34/view?usp=share_link)
 - **Apr 2025:** Successfully defended my PhD Candidacy Exam
