@@ -27,7 +27,7 @@ jobs:
       uses: ruby/setup-ruby@v1
       with:
         ruby-version: '3.2'
-        bundler-cache: true
+        bundler-cache: false # Disable cache to ensure fresh install
         
     - name: Setup Pages
       id: pages
@@ -39,13 +39,15 @@ jobs:
         sudo apt-get install -y imagemagick libvips-tools
         pip install jupyter nbconvert
         
-    - name: Configure Bundler
+    - name: Configure Bundler and install dependencies
       run: |
         bundle config path vendor/bundle
         bundle config set --local deployment false
+        bundle install --full-index
         
-    - name: Install Ruby dependencies
-      run: bundle install
+    - name: Verify feedjira installation
+      run: |
+        bundle exec ruby -e "require 'feedjira'; puts 'feedjira loaded successfully'"
       
     - name: Build with Jekyll
       run: |
