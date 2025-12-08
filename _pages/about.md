@@ -9,7 +9,8 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>📧 arifh@rpi.edu</p>
+    <p>📧 arifh@rpi.edu | huzaifaarif20@gmail.com</p>
+    
     <p>📞 (518) 961-8482</p>
   
 
