@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-🎯 Successfully **defended my PhD Candidacy Exam**! One step closer to graduation in December 2025.
+🎯 Successfully **defended my PhD Candidacy Exam**! 
