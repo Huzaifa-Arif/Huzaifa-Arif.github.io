@@ -14,6 +14,7 @@ group :jekyll_plugins do
     gem 'jekyll-scholar'
     gem 'jekyll-sitemap'
     gem 'jekyll-toc'         # Required for {% toc %} tag in layouts
+    gem 'jekyll-twitter-plugin' # Required for {% twitter %} tag
     gem 'jemoji'
 end
 
