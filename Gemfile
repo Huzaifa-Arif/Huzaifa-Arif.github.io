@@ -28,6 +28,7 @@ gem 'faraday-retry'
 # Dependencies for plugins
 gem 'feedjira' # Required by external-posts plugin
 gem 'httparty' # Required by some plugins
+gem 'css_parser' # Required by download-3rd-party plugin
 gem 'bibtex-ruby' # Required by jekyll-scholar
 gem 'latex-decode' # Required by jekyll-scholar
 gem 'unicode_utils' # Required by some plugins
