@@ -23,5 +23,9 @@ gem 'base64'
 gem 'webrick', '~> 1.8'
 gem 'faraday-retry'
 
+# Dependencies for plugins
+gem 'feedjira' # Required by external-posts plugin
+gem 'httparty' # Required by some plugins
+
 # For GitHub Pages compatibility, but not using github-pages gem
 # to avoid version conflicts with Jekyll 4.x
