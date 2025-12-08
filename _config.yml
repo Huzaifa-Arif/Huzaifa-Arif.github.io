@@ -206,6 +206,7 @@ plugins:
   - jekyll-paginate-v2
   - jekyll/scholar
   - jekyll-sitemap
+  - jekyll-toc
   - jemoji
 
 # Sitemap settings
