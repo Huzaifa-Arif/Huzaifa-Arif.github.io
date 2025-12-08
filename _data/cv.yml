@@ -1,0 +1,122 @@
+- title: General Information
+  type: map
+  contents:
+    - name: Full Name
+      value: Huzaifa Arif
+    - name: Email
+      value: arifh@rpi.edu
+    - name: Phone
+      value: (518) 961-8482
+    - name: Expected Graduation
+      value: December 2025
+
+- title: Education
+  type: time_table
+  contents:
+    - title: Ph.D. in Electrical and Computer Systems Engineering
+      institution: Rensselaer Polytechnic Institute, Troy, NY
+      year: 2021 - 2025
+      description:
+        - Focus on Trustworthy AI, Privacy in Machine Learning, Federated Learning
+        - Advisor: Dr. Alex Gittens
+        - Multiple first-author publications in top-tier conferences
+        - Research internships at IBM Research and Lawrence Livermore National Laboratory
+    - title: B.S. in Electrical Engineering
+      institution: Lahore University of Management Sciences, Lahore, Pakistan
+      year: 2015 - 2019
+      description:
+        - Strong foundation in mathematics, signal processing, and computer science
+
+- title: Experience
+  type: time_table
+  contents:
+    - title: AI Research Extern - Trustworthy AI
+      institution: IBM T.J Watson Research Center, Yorktown Heights, NY
+      year: Jun 2025 - Aug 2025
+      description:
+        - Mentors: Pin-Yu Chen, Ching-Yun Ko, Keerthiram Murugesan, Payel Das
+        - Developed parameter-efficient LLM safety alignment methods
+        - Investigated association leakage vulnerabilities in Large Language Models
+    - title: Data Science Intern
+      institution: Lawrence Livermore National Laboratory, Livermore, CA
+      year: May 2024 - Aug 2024
+      description:
+        - Mentors: Bhavya Kailkhura, James Diffenderfer
+        - Developed evasion attacks for weather prediction models
+        - Published work accepted at AAAI 2025 workshop
+    - title: AI Research Extern - Trustworthy AI
+      institution: IBM T.J Watson Research Center, Yorktown Heights, NY
+      year: Jun 2023 - Aug 2023
+      description:
+        - Mentors: Pin-Yu Chen, Keerthiram Murugesan, Payel Das
+        - Research on data leakage in residual neural networks
+        - Work accepted at SATML 2025 conference
+    - title: AI Research Extern - Trustworthy AI
+      institution: IBM T.J Watson Research Center, Yorktown Heights, NY
+      year: Jun 2022 - Aug 2022
+      description:
+        - Mentor: Pin-Yu Chen
+        - Developed Reprogrammable-FL approach for federated learning
+        - Work accepted at SATML 2023 conference
+
+- title: Publications
+  type: list
+  contents:
+    - Reprogrammable-FL - Improving Utility-Privacy Tradeoff in Federated Learning via Model Reprogramming (SATML 2023)
+    - PEEL the Layers and Find Yourself - Revisiting Inference-time Data Leakage for Residual Neural Networks (SATML 2025)
+    - Group Fair Federated Learning via Stochastic Kernel Regularization (TMLR 2025)
+    - Forecasting Fails - Unveiling Evasion Attacks in Weather Prediction Models (AAAI Workshop 2025)
+    - DP-Compressed VFL is secure for Model Inversion Attacks (Preprint)
+
+- title: Patents
+  type: list
+  contents:
+    - Differentially Private Federated Learning using Model Reprogramming (US20240256894A1)
+    - Method for Quantifying Private Leakage in Pretrained Neural Networks (Pending)
+    - Patching LLM - Steering Large Language Models with Soft Prompting (Pending)
+
+- title: Honors and Awards
+  type: time_table
+  contents:
+    - year: 2025
+      items:
+        - Founders Award of Excellence (Top 1% Graduate Students at RPI)
+        - 2nd Place at 3 Minute Thesis Competition
+    - year: 2024
+      items:
+        - Belsky Award for Computational Science and Engineering (Top 6 Graduate Students)
+    - year: 2022
+      items:
+        - PhD Qualification Exam (Rank Top-5)
+
+- title: Professional Service
+  type: list
+  contents:
+    - Reviewer for ICLR 2025
+    - Reviewer for ICASSP 2025, 2023
+    - Reviewer for AISTATS 2023
+    - Reviewer for IEEE MLSP 2023
+
+- title: Research Interests
+  type: nested_list
+  contents:
+    - title: Trustworthy AI
+      items:
+        - LLM Safety and Alignment
+        - Privacy-Preserving Machine Learning
+        - Bias and Fairness in AI
+    - title: Federated Learning
+      items:
+        - Utility-Privacy Tradeoffs
+        - Model Reprogramming
+        - Differential Privacy
+        - Description 2.
+    - title: Topic 2.
+      items:
+        - Description 1.
+        - Description 2.
+
+- title: Other Interests
+  type: list
+  contents:
+    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
