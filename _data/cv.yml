@@ -7,15 +7,14 @@
       value: arifh@rpi.edu
     - name: Phone
       value: (518) 961-8482
-    - name: Expected Graduation
-      value: December 2025
+    
 
 - title: Education
   type: time_table
   contents:
     - title: Ph.D. in Electrical and Computer Systems Engineering
       institution: Rensselaer Polytechnic Institute, Troy, NY
-      year: 2021 - 2025
+      year: 2021 - Ongoing
       description:
         - Focus on Trustworthy AI, Privacy in Machine Learning, Federated Learning
         - Advisor: Dr. Alex Gittens
@@ -23,7 +22,7 @@
         - Research internships at IBM Research and Lawrence Livermore National Laboratory
     - title: B.S. in Electrical Engineering
       institution: Lahore University of Management Sciences, Lahore, Pakistan
-      year: 2015 - 2019
+      year: 2013 - 2017
       description:
         - Strong foundation in mathematics, signal processing, and computer science
 
@@ -62,6 +61,7 @@
 - title: Publications
   type: list
   contents:
+    - Patching LLM Like Software - A Lightweight Method for Improving Safety Policy in Large Language Models (arXiv 2025)
     - Reprogrammable-FL - Improving Utility-Privacy Tradeoff in Federated Learning via Model Reprogramming (SATML 2023)
     - PEEL the Layers and Find Yourself - Revisiting Inference-time Data Leakage for Residual Neural Networks (SATML 2025)
     - Group Fair Federated Learning via Stochastic Kernel Regularization (TMLR 2025)
