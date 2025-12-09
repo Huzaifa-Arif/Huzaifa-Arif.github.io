@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-📄 **Three papers accepted!** Data leakage work accepted to **SATML 2025**, federated learning work to **TMLR 2025**, and weather prediction attacks to **AAAI 2025** .
+📄 **Three papers accepted!** Data leakage work from **IBM 2025 internship** accepted to **SATML 2025**, federated learning work to **TMLR 2025**, and weather prediction attacks from **LLNL internship** to **AAAI 2025**.
