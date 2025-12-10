@@ -3,7 +3,7 @@ layout: page
 title: old_projects
 permalink: /projects/
 description: Undergraduate and early career projects showcasing technical skills and innovation.
-nav: false
+nav: true
 nav_order: 2
 display_categories: [undergraduate, research, hardware]
 horizontal: false
