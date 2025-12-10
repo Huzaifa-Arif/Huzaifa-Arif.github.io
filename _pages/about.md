@@ -30,6 +30,8 @@ latest_posts:
 
 I am a fifth-year Ph.D. candidate and researcher with multiple first-author publications in trustworthy AI. My work focuses on exposing and mitigating privacy and safety vulnerabilities in Large Language Models, demonstrated through research at IBM and LLNL. 
 
+**I am open to collaboration.**
+
 ## Research Interests
 
 My research spans several key areas in trustworthy AI:
