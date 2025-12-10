@@ -4,7 +4,7 @@ title: old_projects
 permalink: /projects/
 description: Undergraduate and early career projects showcasing technical skills and innovation.
 nav: true
-nav_order: 2
+nav_order: 9
 display_categories: [undergraduate, research, hardware]
 horizontal: false
 ---
@@ -12,6 +12,15 @@ horizontal: false
 <!-- pages/projects.md -->
 <div class="projects">
   <div class="project-section">
+    <h2>Grad School Projects</h2>
+
+    <div class="project-item">
+      <h3>Hypergradient Descent Implementation</h3>
+      <p><strong>Repository:</strong> <a href="https://github.com/mohbattharani/Hypergradient-Descent" target="_blank">GitHub Repository</a></p>
+      <p><strong>Co-authors:</strong> Mohbat Tharani, <strong>Huzaifa Arif</strong>, Tobias Park, Momin Abbas, Xinyan Sun</p>
+      <p>Reimplemented the "Online learning rate adaptation with hypergradient descent" paper, developing advanced optimization algorithms for machine learning. This project involved deep understanding of optimization theory, gradient-based methods, and adaptive learning rate techniques for improved model training efficiency.</p>
+    </div>
+    
     <h2>Undergraduate Projects</h2>
     
     <div class="project-item">
@@ -32,14 +41,6 @@ horizontal: false
     <div class="project-item">
       <h3>LC Meter</h3>
       <p>Designed and built a precision measurement instrument using PIC microcontrollers capable of accurately determining the values of connected inductors and capacitors. This project demonstrated proficiency in embedded systems design, microcontroller programming, and electronic measurement principles.</p>
-    </div>
-
-    <h2>Grad School Projects (Additional)</h2>
-
-    <div class="project-item">
-      <h3>Hypergradient Descent Implementation</h3>
-      <p><strong>Repository:</strong> <a href="https://github.com/mohbattharani/Hypergradient-Descent" target="_blank">https://github.com/mohbattharani/Hypergradient-Descent</a></p>
-      <p>Reimplemented the "Online learning rate adaptation with hypergradient descent" paper, developing advanced optimization algorithms for machine learning. This project involved deep understanding of optimization theory, gradient-based methods, and adaptive learning rate techniques for improved model training efficiency.</p>
     </div>
   </div>
 </div>
