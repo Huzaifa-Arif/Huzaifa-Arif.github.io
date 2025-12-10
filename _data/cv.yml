@@ -58,26 +58,41 @@
         - Developed Reprogrammable-FL approach for federated learning
         - Work accepted at SATML 2023 conference
     - title: Research Assistant
-      institution: Lahore University of Management Sciences, Lahore, Pakistan
+      institution: Lahore University of Management Sciences (AdCommLab), Lahore, Pakistan
       year: Sep 2019 - Jan 2021
       description:
-        - Full-time research position in electrical engineering
-        - Conducted advanced research in signal processing and machine learning
-        - Contributed to academic publications and research projects
+        - Developed Simulink model in MATLAB comparing 2x2 Alamouti vs DSTBC performance with BPSK/QPSK under Rayleigh fading
+        - Implemented and tested models on USRP N2310 and USRP X310 for over-the-air performance in indoor environments
+        - Achieved very low bit error rates (BER) through optimized signal processing techniques
+        - Developed Digital Auto Encoders to overcome DSTBC performance limitations compared to STBC
+        - Research focused on advanced wireless communication systems and space-time block coding
     - title: Assistant Manager (Wireless Operations)
-      institution: PTCL.Official, Hyderabad, Sindh, Pakistan
-      year: Sep 2018 - Aug 2019
+      institution: Pakistan Telecommunication Company Ltd, Lahore, Pakistan
+      year: Aug 2018 - Jul 2019
       description:
-        - Full-time position managing wireless network operations
-        - Oversaw technical operations and network optimization
-        - Enhanced communication systems and operational efficiency
-    - title: Project Engineer
+        - Configured and maintained wireless network elements including microwave links, BSC, and NMS servers
+        - Extracted and analyzed alarm reports from BSC and MSC systems for improved network performance
+        - Optimized wireless network operations and troubleshooted connectivity issues
+        - Enhanced system reliability and operational efficiency across telecommunication infrastructure
+        - Managed technical teams and coordinated maintenance activities
+    - title: Project Engineer (E/I Engineering Intern)
       institution: Hascol Terminals Limited, Karachi, Sindh, Pakistan
-      year: Jul 2018 - Aug 2018
+      year: Jul 2018 - Nov 2018
       description:
-        - Full-time engineering role in petroleum terminal operations
-        - Managed technical projects and system implementations
-        - Applied engineering principles to operational challenges
+        - Supervised technical operations in petroleum terminal engineering projects
+        - Managed electrical and instrumentation (E/I) systems for terminal operations
+        - Coordinated project implementation and technical oversight
+        - Applied engineering principles to optimize terminal efficiency and safety protocols
+        - Gained hands-on experience in industrial automation and control systems
+    - title: Research Intern
+      institution: National Centre for Robotics and Automation (NCRA), LUMS, Lahore, Pakistan
+      year: Aug 2018 - Jul 2019
+      description:
+        - Developed multi-camera tracking and mapping systems for UAV applications in canal environments
+        - Implemented computer vision algorithms for autonomous navigation and environmental mapping
+        - Worked on drone-based surveillance and monitoring systems for waterway infrastructure
+        - Applied robotics and automation principles to real-world environmental challenges
+        - Gained experience in UAV control systems and sensor integration
 
 - title: Publications
   type: list
