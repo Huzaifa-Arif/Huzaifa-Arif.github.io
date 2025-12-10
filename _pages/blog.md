@@ -23,7 +23,7 @@ description: Current research directions and explorations in trustworthy AI
 
     <div class="direction-item">
       <h3>2. Model Merging in Restricted Subspaces</h3>
-      <p>Investigating novel approaches to combine multiple machine learning models within constrained parameter spaces. This work aims to optimize model fusion techniques while maintaining computational efficiency and preserving specialized capabilities of individual models.</p>
+      <p>Investigating novel approaches to continual learning and model merging within constrained parameter spaces. This work aims to optimize model fusion techniques while maintaining computational efficiency and preserving specialized capabilities of individual models through advanced continual learning paradigms.</p>
       <p><em>Details coming soon...</em></p>
     </div>
 
