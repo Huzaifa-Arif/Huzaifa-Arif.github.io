@@ -99,7 +99,6 @@
 - title: Publications
   type: list
   contents:
-    - DS FedProxGrad - Asymptotic Stationarity Without Noise Floor in Fair Federated Learning (arXiv 2025)
     - Patching LLM Like Software - A Lightweight Method for Improving Safety Policy in Large Language Models (arXiv 2025)
     - Reprogrammable-FL - Improving Utility-Privacy Tradeoff in Federated Learning via Model Reprogramming (SATML 2023)
     - PEEL the Layers and Find Yourself - Revisiting Inference-time Data Leakage for Residual Neural Networks (SATML 2025)
